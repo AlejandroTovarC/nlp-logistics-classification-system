@@ -227,6 +227,3 @@ pip install -r requirements.txt
 ## License
 
 This project was developed for academic purposes as part of the IE7500 course.                
-
-# nlp-logistics-classification-system
-NLP-Based Customer Support Ticket Classification System 
