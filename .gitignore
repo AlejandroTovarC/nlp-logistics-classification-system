@@ -1,0 +1,14 @@
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# -------------------- IDE / Editor --------------------
+# VSCode
+.vscode/
+*.code-workspace
+
+# CSV Files
+/data/nlp_dataset.csv
+data/nlp_dataset_train_pre-processed.csv
